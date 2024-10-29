@@ -1,8 +1,12 @@
-# Wikipedia Data Scraper
+# Wikipedia Data Scraper and EDA for U.S. Companies by Revenue
+This project demonstrates web scraping of the largest companies in the United States by revenue, using data extracted from Wikipedia. The repository includes the following components:
 
-Description:
-This project builds a web scraper using Python to extract data from Wikipedia. It utilizes the BeautifulSoup and requests libraries to scrape structured data such as tables and infoboxes from a Wikipedia article.
+**Web Scraping:**
 
-Technologies: Python, BeautifulSoup, Requests
+Extracts the table of the largest U.S. companies by revenue from Wikipedia using BeautifulSoup and requests.
 
-Results: Successfully scrapes structured data (like demographic info or event details) from specified Wikipedia pages, storing it in CSV format for analysis or research purposes.
+Parses the HTML content to structure the data into a usable format (Pandas DataFrame).
+
+**Tools & Libraries:**
+
+Web Scraping: BeautifulSoup, Requests 
