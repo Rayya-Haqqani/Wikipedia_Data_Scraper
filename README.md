@@ -1,4 +1,4 @@
-# Wikipedia Data Scraper and EDA for U.S. Companies by Revenue
+# Wikipedia Data Scraper for U.S. Companies by Revenue
 This project demonstrates web scraping of the largest companies in the United States by revenue, using data extracted from Wikipedia. The repository includes the following components:
 
 **Web Scraping:**
